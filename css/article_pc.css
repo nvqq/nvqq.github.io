@@ -60,7 +60,7 @@ body {
 .container .left .ruanjian .rjbtn a:hover{background:#3086fb;}
 .container .left .ruanjian .btngreen a{background:#1fa42e;}
 .container .left .ruanjian .btngreen a:hover{background:#2cb23b;}
-.container .left .yt_logo{display:inline-block; width:1.2em; height:1.2em; background:url(../jd/images/yt_logo.png) bottom no-repeat; background-size:100%;}
+.container .left .yt_logo{display:inline-block; width:1.2em; height:1.2em; background:url("../images/yt_logo.png") bottom no-repeat; background-size:100%;}
 .container .left .jdfx{font-size:24px; border:1px solid #eeeeee; border-top:none; padding:0.8em 1em; margin:0; line-height:2; transition:all 0.2s;}
 .container .left .jd_list p:nth-child(even){background-color:#f7f7f7;}
 .container .left .jdfx:hover{background:#f7f7f7;}
