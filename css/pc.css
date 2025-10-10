@@ -21,7 +21,7 @@ body {
 .layout .wz a.shadowrocket:hover{background:#2392f4 url(../images/sha.png) no-repeat 14px 12px; background-size: 26px;}
 .layout .wz .clash1{background:#e17011 url(../images/cla.png) no-repeat 16px 13px; background-size: 20px; color:#FFF; padding:5px 20px 5px 45px; border-radius:100px; cursor:pointer; transition:all 0.2s;}
 .layout .wz .clash1:hover{background:#fd7e14 url(../images/cla.png) no-repeat 16px 13px; background-size: 20px;}
-.layout .wz .v2ray{background:#0d9d40 url(../images/v2.png) no-repeat 19px 16px; background-size: 18px; color:#FFF; padding:5px 20px 5px 45px; border-radius:100px; cursor:pointer; transition:all 0.2s;}
+.layout .wz .v2ray{background:#0d9d40 url(../images/v2.png) no-repeat 19px 16px; background-size: 18px; color:#FFF; padding:5px 20px 5px 45px; border-radius:100px; text-decoration:none; cursor:pointer; transition:all 0.2s;}
 .layout .wz .v2ray:hover{background:#11b149 url(../images/v2.png) no-repeat 19px 16px; background-size: 18px;}
 .layout .wz .v2ray1{background:#088a36 url(../images/v2.png) no-repeat 19px 16px; background-size: 18px; color:#FFF; padding:5px 20px 5px 45px; border-radius:100px; cursor:pointer; transition:all 0.2s;}
 .layout .link .link1{line-height:1; width:1px; height:1px; overflow:hidden; margin:0}

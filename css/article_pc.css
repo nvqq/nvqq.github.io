@@ -60,14 +60,16 @@ body {
 .container .left .ruanjian .rjbtn a:hover{background:#3086fb;}
 .container .left .ruanjian .btngreen a{background:#1fa42e;}
 .container .left .ruanjian .btngreen a:hover{background:#2cb23b;}
-.container .left .yt_logo{display:inline-block; width:1.2em; height:1.2em; background:url("../images/yt_logo.png") bottom no-repeat; background-size:100%;}
-.container .left .jdfx{font-size:24px; border:1px solid #eeeeee; border-top:none; padding:0.8em 1em; margin:0; line-height:2; transition:all 0.2s;}
+.container .left .yt_logo{display:inline-block; width:1.2em; height:1.2em; background:url(../jd/images/yt_logo.png) bottom no-repeat; background-size:100%;}
+.container .left .jdfx{font-size:24px; border:1px solid #e8e8e8; border-top:none; padding:0.8em 1em; margin:0; line-height:2; transition:all 0.2s;}
+.container .left .jd_list a{text-decoration:none;}
 .container .left .jd_list p:nth-child(even){background-color:#f7f7f7;}
-.container .left .jdfx:hover{background:#f7f7f7;}
-.container .left .jdfx a{display:inline-block; overflow:hidden; padding:0px 0.5em; margin-left:2em; background:#2a79e5; color:#FFF; text-decoration:none; border-radius:3px; vertical-align:bottom;}
-.container .left .jdfx a:hover{background:#3086fb; color:#FFF;}
-.container .left .btngreen1 a{background:#1fa42e;}
-.container .left .btngreen1 a:hover{background:#2cb23b;}
+.container .left .jd_list p.text01{background:none; margin-bottom:1.2em; font-size:1.1em;}
+.container .left .jdfx:hover{background:#f7f7f7; border-bottom:1px solid #d2d2d2; color:#007be3;}
+.container .left .jdfx span{display:inline-block; overflow:hidden; padding:0px 0.5em; margin-left:2em; background:#2a79e5; color:#FFF; text-decoration:none; border-radius:3px; vertical-align:bottom;transition:all 0.2s;}
+.container .left .jdfx span:hover{background:#3086fb; color:#FFF;}
+.container .left .btngreen1 span{background:#1fa42e;}
+.container .left .btngreen1 span:hover{background:#2cb23b;}
 .nva01{width:900px; height:14px; line-height:14px; margin:15px auto 0; font-size:14px;}
 .nva01 a{margin:0 5px;}
 
@@ -100,3 +102,4 @@ body {
 .footer .footer_nav a{margin:0 10px; color:#333; text-decoration:underline;}
 .footer .footer_nav a:hover{margin:0 10px; color:#007be3;}
 .footer .tips{padding:5px;}
+.bottom{border:0px solid #333; width:100%; padding:2em 0em 1em; background-color:; font-size:1.1em; text-align:center;}
