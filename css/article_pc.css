@@ -16,7 +16,7 @@ body {
 .header .inner .nav a:hover{color:#007be3}
 
 .container{width:100%; max-width:1920px; margin:20px auto; height:100%; overflow:hidden;}
-.container .left{width:100%; max-width:1000px; background:#FFF; box-shadow: 0 0 14px rgba(0,0,0,.04); margin:0 auto; padding-bottom:20px; border-radius:10px;}
+.container .left{width:100%; max-width:800px; background:#FFF; box-shadow: 0 0 14px rgba(0,0,0,.04); margin:0 auto; padding-bottom:20px; border-radius:10px;}
 .container .left .video{width:90%; margin:0 auto;}
 .container .left iframe{width:100%; min-height:506px; border-radius:10px;}
 .container .left .video img{max-width:100%;}
@@ -66,7 +66,7 @@ body {
 .container .left .jd_list p:nth-child(even){background-color:#f7f7f7;}
 .container .left .jd_list p.text01{background:none; margin-bottom:1.2em; font-size:1.1em;}
 .container .left .jdfx:hover{background:#f7f7f7; border-bottom:1px solid #d2d2d2; color:#007be3;}
-.container .left .jdfx span{display:inline-block; overflow:hidden; padding:0px 0.5em; margin-left:2em; background:#2a79e5; color:#FFF; text-decoration:none; border-radius:3px; vertical-align:bottom;transition:all 0.2s;}
+.container .left .jdfx span{display:inline-block; overflow:hidden; padding:0px 0.5em; float:right; background:#2a79e5; color:#FFF; text-decoration:none; border-radius:3px; vertical-align:bottom;transition:all 0.2s;}
 .container .left .jdfx span:hover{background:#3086fb; color:#FFF;}
 .container .left .btngreen1 span{background:#1fa42e;}
 .container .left .btngreen1 span:hover{background:#2cb23b;}

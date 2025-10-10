@@ -13,10 +13,12 @@
 .container .left p strong{}
 .container .left h1{font-size:2.5em; color:#333; padding:0.5em 0 1em 0px; width:94%; margin:0 auto; line-height:1.3;}
 .container .left .video h2{font-size:2em; color:#333; font-weight:bold; margin-bottom:0.2em;}
+.container .left .ruanjian{width:96%;}
 .container .left .ruanjian h1{font-size:3.5em;}
 .container .left .ruanjian h2{font-size:3em; font-weight:bold; border-bottom:1px dashed #CCCCCC; padding:10px 0; margin-bottom:25px;}
 .container .left .ruanjian .rjbtn a{font-size:1.3em; border-radius:0.2em; padding:0.2em 0.6em; margin:0.1em 0.8em 0.5em 0;}
-.container .left .jdfx{padding:1em 1em;}
+.container .left .jdfx{padding:1em 1em; font-size:1.7em;}
+.container .left .jd_list p.text01{background:none; margin-bottom:1.2em; font-size:1.2em;}
 
 .copy_layout{position:relative;}
 .copy-text{display:block; text-align:right; cursor:pointer;font-size:1em;color:#CCC; padding-right:3px; position:absolute; right:0; top:0;}
@@ -26,4 +28,4 @@
 .ol_list{font-size:2em;}
 .footer{font-size:1.2em}
 body{line-height:2;}
-.bottom{font-size:2em; line-height:1.5;}
+.bottom{font-size:1.7em; line-height:1.5;}
